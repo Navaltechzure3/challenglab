@@ -1,0 +1,4 @@
+inline = [
+         "powershell -ExecutionPolicy Unrestricted Install-WindowsFeature -name Web-Server -IncludeManagementTools"
+        ]
+      
